@@ -4,4 +4,4 @@
 
 
 It is a pet project where i tried to deploy patterns and TDD.
-It is a console progrma which check a directory and compare files by their hash. If it find two files with the same hash it deletes doubles.
+It is a console programm which check a directory and compare files by their hash. If it find two files with the same hash it deletes doubles.
